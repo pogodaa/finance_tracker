@@ -35,9 +35,9 @@ API: REST + Swagger
 
 📌 Структура проекта
 text
-/finance_tracker
-            ├── main.py           # FastAPI app
-            ├── models.py         # SQLAlchemy модели
+/finance_tracker        
+├── main.py           # FastAPI app       
+├── models.py         # SQLAlchemy модели
             ├── schemas.py        # Pydantic схемы
             ├── crud.py           # CRUD операции
             ├── database.py       # Настройка БД
