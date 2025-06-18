@@ -33,9 +33,7 @@ API: REST + Swagger
 Тестирование: Pytest + Postman  
 Дополнительно: Telegram Bot
 
-📌 Структура проекта
-text
-/finance_tracker        
+📌 Структура проекта    
 ├── main.py           # FastAPI app       
 ├── models.py         # SQLAlchemy модели       
 ├── schemas.py        # Pydantic схемы          
