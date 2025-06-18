@@ -37,9 +37,9 @@ API: REST + Swagger
 text
 /finance_tracker        
 ├── main.py           # FastAPI app       
-├── models.py         # SQLAlchemy модели
-            ├── schemas.py        # Pydantic схемы
-            ├── crud.py           # CRUD операции
-            ├── database.py       # Настройка БД
-            ├── auth.py           # JWT авторизация
-            └── requirements.txt
+├── models.py         # SQLAlchemy модели       
+├── schemas.py        # Pydantic схемы          
+├── crud.py           # CRUD операции           
+├── database.py       # Настройка БД            
+├── auth.py           # JWT авторизация         
+└── requirements.txt
